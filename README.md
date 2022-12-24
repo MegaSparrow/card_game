@@ -15,7 +15,9 @@ This is considered a decision point where the player (code) can maximize the sco
 
 An example is shown below.
 
+![An example of a game play - part 1](https://user-images.githubusercontent.com/77254817/209414378-77bd7207-0121-41cc-a894-4f03a442cda8.png)
 
+![an exmaple of a game play - part 2](https://user-images.githubusercontent.com/77254817/209414384-54b253ab-fb0b-42fb-bf07-9fa966945466.png)
 
 ## Score Calculation
 The score is calculated once all the cards are dealt and no more card can be discarded. 
